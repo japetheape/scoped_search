@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name    = 'scoped_search'
-  s.version = '1.1.0'
+  s.version = '1.1.1'
   s.date    = '2009-02-23'
   
   s.summary = "A Rails plugin to search your models using a named_scope"
